@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619191132 source:c:\users\rohto\documents\custom office templates\ishan c++ projects\clock\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<chrono>
+	<thread>
+
